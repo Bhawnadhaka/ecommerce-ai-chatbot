@@ -33,16 +33,16 @@ The Ecommerce Chatbot is an intelligent virtual assistant designed to enhance th
    cd ecommerce-chatbot
 
 3. Create and activate a virtual environment (recommended):
-  ```bash
+   ```bash
    python -m venv venv
-   source venv/bin/activate
+
 
 4. Install required depedencies:
- ```bash
- pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 
 5. Run the application:
-  ```bash
-  python app.py
+   ```bash
+   python app.py
 
